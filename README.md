@@ -1,12 +1,3 @@
-<!-- PROFILE HEADER -->
-
-<h1 align="center">Hi 👋, I'm Subhankito Roy Choudhury</h1>
-<h3 align="center">🚀 Aspiring Backend Developer | B.Tech IT Student</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 🧠 About Me
@@ -28,30 +19,6 @@
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,c" />
-</p>
-
-### 🌐 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
-</p>
-
-### ⚙️ Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,postgres" />
-</p>
-
-### 🧰 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-</p>
-
 ---
 
 ## 🚀 Projects
@@ -62,17 +29,17 @@
 * Create, edit, delete blogs
 * Authentication & rich text editor
 
-🔗 [View Project](YOUR_LINK)
+🔗 https://github.com/Adey1400/Simple_blog
 
 ---
 
-### 💬 Real-Time Chat App
+### 📚 Library Management System
 
-* Public chat room with real-time messaging
-* Typing indicator feature
-* Built using React + Appwrite
+* CLI-based Java application
+* Implements core OOP concepts
+* Features: Add, delete, search books
 
-🔗 [View Project](YOUR_LINK)
+🔗 https://github.com/Adey1400/library_management
 
 ---
 
@@ -80,45 +47,28 @@
 
 * API-based news application
 * Category filtering + responsive UI
+* Built with React
 
-🔗 [View Project](YOUR_LINK)
+🔗 https://github.com/Adey1400/Newsify
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
 ---
 
 ## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
-</p>
 
 ---
 
 ## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onestar&no-frame=true&row=1&column=6" />
-</p>
-
 ---
 
 ## 📫 Connect With Me
 
-<p>
-  📧 Email: your@email.com <br>
-  💼 LinkedIn: YOUR_LINK <br>
-</p>
+📧 Email: [subhankitoroychoudhuryofficial@gmail.com](mailto:subhankitoroychoudhuryofficial@gmail.com)
+💼 LinkedIn: https://www.linkedin.com/feed/
 
 ---
 
@@ -127,9 +77,3 @@
 > I debug faster at night 🌙 than during the day 😄
 
 ---
-
-<!-- FOOTER -->
-
-<p align="center">
-  ⭐ From <b>Adey</b> with ❤️
-</p>
