@@ -118,18 +118,6 @@ A modern blogging platform focused on content creation, authentication, and resp
 🔗 **Repository:**
 https://github.com/Adey1400/Simple_blog
 
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Adey1400&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adey1400&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Adey1400&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
