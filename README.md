@@ -142,15 +142,6 @@ https://github.com/Adey1400/Simple_blog
 * ✅ Contribute to Open Source
 * 🎯 Secure a Software Engineering Internship
 
----
-
-# ⚡ Currently Building
-
-🛒 **FastCart** — Scalable E-Commerce Microservices
-
-🔐 **AetherVault** — Zero-Knowledge Password Manager
-
-📚 **Preparing for Software Engineering Interviews**
 
 ---
 
