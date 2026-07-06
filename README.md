@@ -1,123 +1,76 @@
-# Hi 👋, I'm Subhankito Roy Choudhury
+---
 
-<h3 align="center">Backend Developer • Java • Spring Boot • System Design Enthusiast</h3>
+## 🧠 About Me
+
+🎓 B.Tech IT @ Narula Institute of Technology
+💻 Passionate about Backend Development & Problem Solving
+🚀 Building real-world full-stack projects
+🌙 Night owl developer
+
+---
+
+## 🌱 Currently Learning
+
+* ⚙️ Backend Development (Spring Boot / Node.js)
+* 🧩 Data Structures & Algorithms (Java)
+* 🏗️ System Design (Basics)
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adey1400&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://skillicons.dev/icons?i=java,js,c,react,tailwind,html,css,spring,nodejs,postgres,git,github,postman,vscode&perline=6" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 🚀 Projects
 
-🎓 B.Tech in Information Technology @ Narula Institute of Technology
+### 📝 SerenScribe (Blog App)
 
-💻 Passionate about Backend Engineering, Distributed Systems, and Problem Solving
+* Full-stack blog platform using React + Appwrite
+* Create, edit, delete blogs
+* Authentication & rich text editor
 
-☕ Learning Java, Spring Boot, Microservices & System Design
-
-🧩 Solving Data Structures & Algorithms to strengthen problem-solving skills
-
-🚀 Building production-inspired backend projects and continuously improving my software engineering skills
-
-🌙 Night owl developer who enjoys turning ideas into scalable applications
+🔗 [https://github.com/Adey1400/Simple_blog](https://github.com/Adey1400/Simple_blog)
 
 ---
 
-# 🌱 Currently Learning
+### 📚 Library Management System
 
-* ☕ Java & Spring Boot
-* 🏗️ Microservices Architecture
-* 🧠 System Design
-* 🧩 Data Structures & Algorithms
-* 🌐 Computer Networks • Operating Systems • DBMS
+* CLI-based Java application
+* Implements core OOP concepts
+* Features: Add, delete, search books
+
+🔗 [https://github.com/Adey1400/library_management](https://github.com/Adey1400/library_management)
 
 ---
 
-# 🛠️ Tech Stack
+### 📰 Newsify (News App)
+
+* API-based news application
+* Category filtering + responsive UI
+* Built with React
+
+🔗 [https://github.com/Adey1400/Newsify](https://github.com/Adey1400/Newsify)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,postgres,mysql,docker,redis,git,github,postman,vscode&perline=6" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🛒 FastCart Microservices
-
-A production-inspired e-commerce backend built using a scalable microservices architecture.
-
-### Highlights
-
-* Spring Cloud Gateway as API Gateway
-* Independent Product & Order Services
-* Redis Caching
-* Dockerized deployment
-* NGINX Reverse Proxy
-* PostgreSQL persistence
-* RESTful service communication
-
-**Tech Stack**
-
-Java • Spring Boot • Spring Cloud • PostgreSQL • Redis • Docker • NGINX
-
-🔗 https://github.com/Adey1400/fastcart-microservices
-
----
-
-## 🔐 AetherVault
-
-A Zero-Knowledge password manager where credentials are encrypted on the client before they ever reach the server.
-
-### Security Features
-
-* Zero-Knowledge Architecture
-* Client-side AES-256 Encryption
-* PBKDF2 Key Derivation (10,000+ iterations)
-* Random Salts & Initialization Vectors (IV)
-* JWT Authentication
-* Google OAuth2 Login
-* End-to-end encrypted credential storage
-
-**Tech Stack**
-
-React • Tailwind CSS • Java • Spring Boot • Spring Security • PostgreSQL • CryptoJS
-
-🔗 https://github.com/Adey1400/AetherVault
-
----
-
-## 📝 SerenScribe
-
-A modern full-stack blogging platform focused on content creation and authentication.
-
-### Features
-
-* User Authentication
-* Rich Text Editor
-* Create, Edit & Delete Blogs
-* Image Upload Support
-* Responsive UI
-
-**Tech Stack**
-
-React • Appwrite • Tailwind CSS • JavaScript
-
-🔗 https://github.com/Adey1400/Simple_blog
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Adey1400&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Adey1400&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adey1400&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adey1400&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
-# 📈 Contribution Graph
+## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adey1400&theme=tokyo-night&hide_border=true&area=true" />
@@ -125,28 +78,24 @@ React • Appwrite • Tailwind CSS • JavaScript
 
 ---
 
-# 🎯 2026 Goals
+## 🏆 Achievements
 
-* ✅ Master Spring Boot & Spring Security
-* ✅ Build scalable Microservices
-* ✅ Strengthen DSA for coding interviews
-* ✅ Learn System Design fundamentals
-* ✅ Contribute to Open Source
-* 🎯 Secure a Software Engineering Internship
+✨ Currently building strong real-world projects
+🚀 Focused on backend development & DSA for placements
+💡 Continuously improving problem-solving skills
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
-📧 **Email**
-
-[subhankitoroychoudhuryofficial@gmail.com](mailto:subhankitoroychoudhuryofficial@gmail.com)
-
-💼 **LinkedIn**
-https://www.linkedin.com/in/subhankito-roy-choudhury-96144a314/
+📧 Email: [subhankitoroychoudhuryofficial@gmail.com](mailto:subhankitoroychoudhuryofficial@gmail.com)
+💼 LinkedIn: [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
 
 ---
 
-# ⚡ Fun Fact
+## ⚡ Fun Fact
 
-> I enjoy designing backend architectures almost as much as writing the code that powers them. ☕
+> I debug faster at night 🌙 than during the day 😄
+
+---
+
